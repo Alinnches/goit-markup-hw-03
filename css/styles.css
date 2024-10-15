@@ -190,7 +190,6 @@ img {
 .features-list {
   display: flex;
   gap: 24px;
-  margin: 120px 0 156px 0;
 }
 
 .features-item {
@@ -220,19 +219,16 @@ img {
   text-transform: capitalize;
   color: #2e2f42;
   margin-bottom: 72px;
-  padding-top: 120px;
 }
 .team-list {
   /* background-color: #ffffff; */
   display: flex;
   gap: 24px;
   margin: 0 auto;
-  padding-bottom: 120px;
 }
 
 .team-item {
   background-color: #ffffff;
-  padding: 0px 0px 32px 0px;
   box-shadow: 0 2px 1px 0 rgba(46, 47, 66, 0.08),
     0 1px 1px 0 rgba(46, 47, 66, 0.16), 0 1px 6px 0 rgba(46, 47, 66, 0.08);
   border-radius: 0 0 4px 4px;
@@ -249,8 +245,6 @@ img {
   letter-spacing: 0.02em;
   color: #2e2f42;
   text-align: center;
-  padding-top: 32px;
-  padding-bottom: 8px;
   margin-bottom: 8px;
 }
 .person-job {
@@ -274,7 +268,6 @@ img {
   text-align: center;
   text-transform: capitalize;
   color: #2e2f42;
-  padding-top: 120px;
   margin-bottom: 72px;
 }
 
@@ -283,7 +276,6 @@ img {
   flex-wrap: wrap;
   gap: 24px;
   row-gap: 48px;
-  margin-bottom: 48px;
 }
 
 .portfolio-item {
@@ -309,7 +301,6 @@ img {
   line-height: 1.2;
   letter-spacing: 0.02em;
   color: #2e2f42;
-  padding: 32px 16px;
   margin-bottom: 8px;
 }
 .portfolio-item-descr {
@@ -318,8 +309,6 @@ img {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
-  padding-bottom: 32px;
-  padding-left: 16px;
 }
 
 /* footer */
